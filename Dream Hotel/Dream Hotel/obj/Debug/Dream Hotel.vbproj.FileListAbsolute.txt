@@ -1,0 +1,78 @@
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe.config
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.pdb
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.xml
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Interop.WMPLib.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\AxInterop.WMPLib.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbprojAssemblyReference.cache
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.WMPLib.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.WMPLib.dll
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.ResolveComReference.cache
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form1.resources
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form2.resources
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Resources.resources
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.GenerateResource.cache
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.CoreCompileInputs.cache
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.exe
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.xml
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.pdb
+D:\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form3.resources
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbprojAssemblyReference.cache
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.WMPLib.dll
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.WMPLib.dll
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.ResolveComReference.cache
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form1.resources
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form2.resources
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form3.resources
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Resources.resources
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.GenerateResource.cache
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.exe
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.xml
+D:\secure\study\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.pdb
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbprojAssemblyReference.cache
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.WMPLib.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.WMPLib.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.ResolveComReference.cache
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form1.resources
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form2.resources
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form3.resources
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Resources.resources
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.GenerateResource.cache
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.exe
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.xml
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.pdb
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe.config
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.pdb
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.xml
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Interop.WMPLib.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\study\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\AxInterop.WMPLib.dll
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe.config
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.exe
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.pdb
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Dream Hotel.xml
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\Interop.WMPLib.dll
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\bin\Debug\AxInterop.WMPLib.dll
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbprojAssemblyReference.cache
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Interop.WMPLib.dll
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\AxInterop.WMPLib.dll
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.ResolveComReference.cache
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form1.resources
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form2.resources
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Form3.resources
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream_Hotel.Resources.resources
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.GenerateResource.cache
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.vbproj.CoreCompileInputs.cache
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.exe
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.xml
+D:\50% Done\Dreampro\Dream Hotel\Dream Hotel\obj\Debug\Dream Hotel.pdb
